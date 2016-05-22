@@ -1,2 +1,4 @@
-# Windmill-Mod
-Add windmills to your game
+# CustomSceneryModTemplate
+Mod template for custom scenery
+
+See https://parkitectnexus.com/modding-wiki for documentation

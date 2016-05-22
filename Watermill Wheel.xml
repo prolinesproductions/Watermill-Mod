@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ModName>Watermill Wheel</ModName>
+  <ModDiscription>Whatermill wheels - Idle &amp; Animated</ModDiscription>
+  <Objects>
+    <Object>
+      <OBJName>Watermill Wheel@3</OBJName>
+      <Type>deco</Type>
+      <inGameName>Watermill Wheel (Moving)</inGameName>
+      <price>100</price>
+      <grid>false</grid>
+      <snapCenter>true</snapCenter>
+      <category>Watermill</category>
+      <heightDelta>0</heightDelta>
+      <heightDelta>0</heightDelta>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Watermill Wheel@3 (1)</OBJName>
+      <Type>deco</Type>
+      <inGameName>Watermill Wheel (Idle)</inGameName>
+      <price>100</price>
+      <grid>false</grid>
+      <snapCenter>true</snapCenter>
+      <category>Watermill</category>
+      <heightDelta>0</heightDelta>
+      <heightDelta>0</heightDelta>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+  </Objects>
+</Mod>

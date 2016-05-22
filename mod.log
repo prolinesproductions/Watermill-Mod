@@ -1,0 +1,18 @@
+[16-05-22 21:06:10] Info: Compiling Watermill Wheel to bin/build-160522210610683.dll...
+[16-05-22 21:06:10] Info: Compiling from `ModSparkLoader.csproj`.
+[16-05-22 21:06:10] Info: Resolved assembly reference `Assembly-CSharp` to `d:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-05-22 21:06:10] Info: IGNORING assembly reference `Depender`
+[16-05-22 21:06:10] Info: Resolved assembly reference `System` to `System.dll`
+[16-05-22 21:06:10] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-05-22 21:06:10] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-05-22 21:06:10] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-05-22 21:06:10] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-05-22 21:06:10] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-05-22 21:06:10] Info: Resolved assembly reference `UnityEngine` to `d:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-05-22 21:06:10] Info: Resolved assembly reference `UnityEngine.UI` to `d:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-05-22 21:06:10] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `C:\Users\liam\Documents\Parkitect\pnmods\Watermill Wheel`.
+[16-05-22 21:06:10] Info: Compile using compiler version v3.5.
+[16-05-22 21:02:18] Info: Loaded build-160522210213212, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-22 21:02:18] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-22 21:06:16] Info: Loaded build-160522210610683, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-22 21:06:16] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
