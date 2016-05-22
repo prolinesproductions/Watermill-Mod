@@ -15,6 +15,7 @@
       <heightDelta>0</heightDelta>
       <recolorable>false</recolorable>
       <shader>Diffuse</shader>
+      <gridSubdivision>1</gridSubdivision>
     </Object>
     <Object>
       <OBJName>Watermill Wheel@3 (1)</OBJName>
@@ -28,6 +29,7 @@
       <heightDelta>0</heightDelta>
       <recolorable>false</recolorable>
       <shader>Diffuse</shader>
+      <gridSubdivision>1</gridSubdivision>
     </Object>
   </Objects>
 </Mod>
