@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2275636627
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f576ce153f0cfff09239e201084b248f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9db725313e50323556a32d5017530c16
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Mods/Watermill Wheel/Watermill Wheel@3 (1).prefab
+- Assets/Mods/Watermill Wheel/Watermill Wheel@3.prefab
+Dependencies: []
